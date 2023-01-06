@@ -2668,7 +2668,7 @@
 		};
 		C3CD27DC26B098070026FE67 /* XCRemoteSwiftPackageReference "Charts" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/danielgindi/Charts.git";
+			repositoryURL = "https://github.com/bamboolsu/Charts.git";
 			requirement = {
 				kind = exactVersion;
 				version = 4.0.1;
